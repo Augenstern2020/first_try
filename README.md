@@ -9,7 +9,7 @@
     ![百度图标](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
 3. 这是代码区  
-  
+    ```python
     csi_trace = read_bf_file('sample_data/walk_LoS.dat');
 
     for i=1:200 %这里是取的数据包的个数
@@ -31,11 +31,10 @@
     %画第一根天线的载波
     %plot(first_ant_csi.')
     plot(second_ant_csi.')
-    %plot(third_ant_csi.')
+    %plot(third_ant_csi.')  
+    ```
+    
 4. 其他
-   > *斜体文本*  
-   > _斜体文本_  
+   > *斜体文本*    
    > **粗体文本**  
-   > __粗体文本__  
-   > ***粗斜体文本***
-   > ___粗斜体文本___
+   > ***粗斜体文本***    
