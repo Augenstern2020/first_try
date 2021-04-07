@@ -4,10 +4,10 @@
 
 
 1. 这是一个链接  
-[点击](http://www.baidu.com)
+    - [点击](http://www.baidu.com)
 
 2. 这是一个图片 
-    + ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+    ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 
 3. 这是代码区    
     csi_trace = read_bf_file('sample_data/walk_LoS.dat');
