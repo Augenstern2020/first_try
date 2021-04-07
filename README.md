@@ -3,10 +3,10 @@
 #### 这是一个四级标题
 
 1. 这是一个链接  
-    - [点击](http://www.baidu.com)
+    - [百度网址](http://www.baidu.com)
 
 2. 这是一个图片   
-    ![RUNOOB 图标](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+    ![百度图标](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
 3. 这是代码区  
   
