@@ -5,10 +5,10 @@
 这是一个链接[点击](http://www.baidu.com)
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+    
+    csi_trace = read_bf_file('sample_data/walk_LoS.dat');
 
-  csi_trace = read_bf_file('sample_data/walk_LoS.dat');
-
-  for i=1:200%这里是取的数据包的个数
+    for i=1:200%这里是取的数据包的个数
           csi_entry = csi_trace{i};
           csi = get_scaled_csi(csi_entry); %提取csi矩阵    
           csi =csi(1,:,:);
@@ -19,13 +19,13 @@
           second_ant_csi(:,i)=csi1(:,2)
           third_ant_csi(:,i)=csi1(:,3)
 
-  %         for j=1:30
-  %             csi15_end(i,:)=csi1(j,:);           %3个信道第j个子载波
-  %         end
-  end
+    %         for j=1:30
+    %             csi15_end(i,:)=csi1(j,:);           %3个信道第j个子载波
+    %         end
+    end
 
-  %画第一根天线的载波
-  %plot(first_ant_csi.')
-  plot(second_ant_csi.')
-  %plot(third_ant_csi.')
+    %画第一根天线的载波
+    %plot(first_ant_csi.')
+    plot(second_ant_csi.')
+    %plot(third_ant_csi.')
 
