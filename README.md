@@ -4,6 +4,7 @@
 
 1. 这是一个链接  
     - [百度网址](http://www.baidu.com)
+    - [打开另一个.md文件](https://github.com/Augenstern2020/first_try/edit/main/README.md)
 
 2. 这是一个图片   
     ![百度图标](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
@@ -38,5 +39,5 @@
    - *斜体文本*    
    - **粗体文本**  
    - ***粗斜体文本***    
-   > ~~删除线~~
+   - ~~删除线~~
 
