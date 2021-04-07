@@ -12,7 +12,7 @@
   
     csi_trace = read_bf_file('sample_data/walk_LoS.dat');
 
-    for i=1:200%这里是取的数据包的个数
+    for i=1:200 %这里是取的数据包的个数
           csi_entry = csi_trace{i};
           csi = get_scaled_csi(csi_entry); %提取csi矩阵    
           csi =csi(1,:,:);
