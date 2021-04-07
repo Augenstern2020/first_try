@@ -3,8 +3,8 @@
 #### 这是一个四级标题
 
 1. 这是一个链接  
-    - [百度网址](http://www.baidu.com)
-    - [打开另一个.md文件](https://github.com/Augenstern2020/first_try/edit/main/README.md)
+    - [打开百度网址](http://www.baidu.com)
+    - [打开另一个.md文件](https://github.com/Augenstern2020/first_try/blob/main/another.md)
 
 2. 这是一个图片   
     ![百度图标](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
